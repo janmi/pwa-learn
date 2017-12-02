@@ -1,2 +1,2 @@
 # pwa-learn
-pwa
+A pwa project
