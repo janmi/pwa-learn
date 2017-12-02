@@ -1,5 +1,4 @@
 # pwa-log
-## pwa 开发问题记录|备忘
 
 pwa 本地开发启用https 方法 安装 ngrok-stable， 执行命令 ngrok http 8080， 端口可以根据项目的需要进行修改。执行时候将会生成代理地址，可通过代理地址访问本地项目
 ###注意事项： 
@@ -49,3 +48,5 @@ window.addEventListener('beforeinstallprompt', function(e) {
   return false;
 });
 ```
+## PWA-Book-CN
+https://github.com/SangKa/PWA-Book-CN/tree/90680ec462b28e4258efcd9432037fd7ed4a2027
